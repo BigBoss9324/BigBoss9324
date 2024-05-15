@@ -1,3 +1,6 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=InfiniteVoid69&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfiniteVoid69&layout=compact&theme=tokyonight)
 
 ## About ME
 Some of my development history in:
@@ -13,7 +16,3 @@ Some of my development history in:
 <p align="left">
   
 </p>
-
-
-## Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=InfiniteVoid69&show_icons=true&theme=tokyonight)
