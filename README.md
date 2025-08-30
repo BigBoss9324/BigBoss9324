@@ -1,8 +1,6 @@
 # Welcome to my GitHub!
 
-Hello, Im BigBoss9324!
-
-I like to do programming!
+Hello, Im BigBoss9324! - I like to do programming.
 
 ## Skills
 
