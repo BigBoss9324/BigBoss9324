@@ -4,7 +4,7 @@ Hello, Im BigBoss9324! - I like to do programming.
 
 ## Skills
 
-### Tools
+### Languages/Tools
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=powershell,py,lua,ts,astro,react,tailwind,materialui,figma," />
 </a>
