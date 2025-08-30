@@ -1,19 +1,26 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=InfiniteVoid69&show_icons=true&theme=tokyonight)
+# Welcome to my GitHub!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfiniteVoid69&layout=compact&theme=tokyonight)
+Hello, Im BigBoss9324!
 
-## About ME
-Some of my development history in:
-- Automation
-- Roblox Development
+I like to do programming!
 
-#### Operating Systems
-<p align="left">
-	<img alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-	<img alt="Mac" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/68px-MacOS_logo.svg.png?20221222011002" />
-</p>
+## Skills
 
-#### Software
-<p align="left">
-  
-</p>
+### Tools
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=powershell,py,lua,ts,astro,react,tailwind,materialui,figma," />
+</a>
+
+### IDEs
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,robloxstudio," />
+</a>
+
+### OS
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,apple," />
+</a>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BigBoss9324&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigBoss9324&layout=compact&theme=tokyonight)
